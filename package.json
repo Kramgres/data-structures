@@ -1,0 +1,13 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Kramgres/data-structures.git",
+  "author": "Sergei Markushin <kramgres@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.3"
+  }
+}
